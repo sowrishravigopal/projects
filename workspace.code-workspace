@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "images"
+		},
+		{
+			"path": "js"
+		},
+		{
+			"path": "launcher.js"
+		},
+		{
+			"path": "libraries"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "launcher.js"
+	}
+}
